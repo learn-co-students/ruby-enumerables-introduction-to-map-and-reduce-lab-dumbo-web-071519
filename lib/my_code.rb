@@ -21,7 +21,7 @@ end
 
 def reduce_to_total(source_array)
  while source
-end 
+endd 
 
 
 

@@ -70,4 +70,4 @@ describe 'my own reduce-like methods' do
       expect(reduce_to_any_true(source_array)).to eq(false)
     end
   end
-endd
+end
